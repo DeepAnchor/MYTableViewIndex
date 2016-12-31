@@ -1,0 +1,162 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "setAssociatedObject"
+- "removeAssociatedObject"
+- "getAssociatedObject"
+- "swizzle"
+- "swizzled"
+- "swizzleOnce"
+provides-nominal:
+provides-member:
+- ["CSo8NSObject", ""]
+- ["CSo8NSObject", "my_deinitHandler"]
+provides-dynamic-lookup:
+- "my_deinitHandler"
+depends-top-level:
+- "Selector"
+- "swizzled"
+- "NSObject"
+- "setAssociatedObject"
+- "AnyObject"
+- !private "deinitKey"
+- "removeAssociatedObject"
+- !private "method_exchangeImplementations"
+- !private "objc_setAssociatedObject"
+- !private "Box"
+- "BooleanLiteralType"
+- !private "class_getInstanceMethod"
+- !private "Bool"
+- "swizzle"
+- !private "!"
+- "AnyClass"
+- "Void"
+- "getAssociatedObject"
+- "CastingPrecedence"
+- "AssignmentPrecedence"
+- "objc_AssociationPolicy"
+- "swizzleOnce"
+- !private "objc_getAssociatedObject"
+- "UnsafeRawPointer"
+depends-member:
+- !private ["Ps9AnyObject", "DeinitHandler"]
+- !private ["Ps9AnyObject", "active"]
+- ["Ps9AnyObject", "deinit"]
+- !private ["Ps9AnyObject", "deinitKey"]
+- !private ["Ps9AnyObject", "getAssociatedObject"]
+- !private ["Ps9AnyObject", "handler"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "removeAssociatedObject"]
+- !private ["Ps9AnyObject", "setAssociatedObject"]
+- !private ["Ps9AnyObject", "value"]
+- !private ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "DeinitHandler"]
+- !private ["Ps7CVarArg", "deinitKey"]
+- !private ["Ps7CVarArg", "getAssociatedObject"]
+- !private ["Ps7CVarArg", "removeAssociatedObject"]
+- !private ["Ps7CVarArg", "setAssociatedObject"]
+- !private ["Ps28CustomDebugStringConvertible", "DeinitHandler"]
+- !private ["Ps28CustomDebugStringConvertible", "deinitKey"]
+- !private ["Ps28CustomDebugStringConvertible", "getAssociatedObject"]
+- !private ["Ps28CustomDebugStringConvertible", "removeAssociatedObject"]
+- !private ["Ps28CustomDebugStringConvertible", "setAssociatedObject"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "DeinitHandler"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "deinitKey"]
+- !private ["Ps23CustomStringConvertible", "getAssociatedObject"]
+- !private ["Ps23CustomStringConvertible", "removeAssociatedObject"]
+- !private ["Ps23CustomStringConvertible", "setAssociatedObject"]
+- !private ["Ps9Equatable", "DeinitHandler"]
+- !private ["Ps9Equatable", "OBJC_ASSOCIATION_ASSIGN"]
+- !private ["Ps9Equatable", "OBJC_ASSOCIATION_RETAIN"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "deinitKey"]
+- !private ["Ps9Equatable", "getAssociatedObject"]
+- !private ["Ps9Equatable", "removeAssociatedObject"]
+- !private ["Ps9Equatable", "setAssociatedObject"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "DeinitHandler"]
+- !private ["Ps8Hashable", "OBJC_ASSOCIATION_ASSIGN"]
+- !private ["Ps8Hashable", "OBJC_ASSOCIATION_RETAIN"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "deinitKey"]
+- !private ["Ps8Hashable", "getAssociatedObject"]
+- !private ["Ps8Hashable", "removeAssociatedObject"]
+- !private ["Ps8Hashable", "setAssociatedObject"]
+- ["SQ", "deinit"]
+- ["Si", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "DeinitHandler"]
+- ["CSo8NSObject", "Void"]
+- ["CSo8NSObject", "deinit"]
+- !private ["CSo8NSObject", "deinitKey"]
+- !private ["CSo8NSObject", "getAssociatedObject"]
+- ["CSo8NSObject", "my_deinitHandler"]
+- !private ["CSo8NSObject", "removeAssociatedObject"]
+- !private ["CSo8NSObject", "setAssociatedObject"]
+- !private ["PSo16NSObjectProtocol", "DeinitHandler"]
+- !private ["PSo16NSObjectProtocol", "deinitKey"]
+- !private ["PSo16NSObjectProtocol", "getAssociatedObject"]
+- !private ["PSo16NSObjectProtocol", "removeAssociatedObject"]
+- !private ["PSo16NSObjectProtocol", "setAssociatedObject"]
+- ["Sq", "deinit"]
+- !private ["Ps16RawRepresentable", "OBJC_ASSOCIATION_ASSIGN"]
+- !private ["Ps16RawRepresentable", "OBJC_ASSOCIATION_RETAIN"]
+- ["V10ObjectiveC8Selector", "deinit"]
+- ["SV", "deinit"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "DeinitHandler"]
+- !private ["Ps9_Hashable", "OBJC_ASSOCIATION_ASSIGN"]
+- !private ["Ps9_Hashable", "OBJC_ASSOCIATION_RETAIN"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "deinitKey"]
+- !private ["Ps9_Hashable", "getAssociatedObject"]
+- !private ["Ps9_Hashable", "removeAssociatedObject"]
+- !private ["Ps9_Hashable", "setAssociatedObject"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["OSC22objc_AssociationPolicy", "OBJC_ASSOCIATION_ASSIGN"]
+- !private ["OSC22objc_AssociationPolicy", "OBJC_ASSOCIATION_RETAIN"]
+- ["OSC22objc_AssociationPolicy", "deinit"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- !private "Ps7CVarArg"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps8Hashable"
+- "SQ"
+- "Si"
+- !private "Ps25LosslessStringConvertible"
+- "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- "Sq"
+- !private "Ps16RawRepresentable"
+- "V10ObjectiveC8Selector"
+- "SV"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+- "OSC22objc_AssociationPolicy"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/x/forks/MYTableViewIndex/Example/Pods/Target Support Files/MYTableViewIndex/MYTableViewIndex-umbrella.h"
+- "/Users/x/forks/MYTableViewIndex/Example/build/Pods.build/Debug-iphonesimulator/MYTableViewIndex.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "5e19395e5d623a8306c30e1243aebd59"

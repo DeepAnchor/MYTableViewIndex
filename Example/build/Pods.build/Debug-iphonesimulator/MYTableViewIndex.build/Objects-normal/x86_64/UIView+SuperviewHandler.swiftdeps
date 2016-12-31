@@ -1,0 +1,292 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["CSo6UIView", ""]
+- ["CSo6UIView", "my_didMoveToSuperviewHandler"]
+- ["CSo6UIView", "my_didMoveToSuperview"]
+provides-dynamic-lookup:
+- "my_didMoveToSuperview"
+- "my_didMoveToSuperviewHandler"
+depends-top-level:
+- "Void"
+- "UIView"
+- !private "getAssociatedObject"
+- !private "swizzleOnce"
+- !private "didMoveToSuperviewHandlerKey"
+- !private "setAssociatedObject"
+depends-member:
+- !private ["Ps9AnyObject", "UIView"]
+- !private ["Ps9AnyObject", "didMoveToSuperview"]
+- !private ["Ps9AnyObject", "didMoveToSuperviewHandlerKey"]
+- !private ["Ps9AnyObject", "getAssociatedObject"]
+- ["Ps9AnyObject", "my_didMoveToSuperview"]
+- ["Ps9AnyObject", "my_didMoveToSuperviewHandler"]
+- !private ["Ps9AnyObject", "setAssociatedObject"]
+- !private ["Ps9AnyObject", "superview"]
+- !private ["Ps9AnyObject", "swizzleOnce"]
+- !private ["PSo15CALayerDelegate", "UIView"]
+- !private ["PSo15CALayerDelegate", "didMoveToSuperview"]
+- !private ["PSo15CALayerDelegate", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo15CALayerDelegate", "getAssociatedObject"]
+- !private ["PSo15CALayerDelegate", "my_didMoveToSuperview"]
+- !private ["PSo15CALayerDelegate", "my_didMoveToSuperviewHandler"]
+- !private ["PSo15CALayerDelegate", "setAssociatedObject"]
+- !private ["PSo15CALayerDelegate", "superview"]
+- !private ["PSo15CALayerDelegate", "swizzleOnce"]
+- !private ["Ps7CVarArg", "UIView"]
+- !private ["Ps7CVarArg", "didMoveToSuperview"]
+- !private ["Ps7CVarArg", "didMoveToSuperviewHandlerKey"]
+- !private ["Ps7CVarArg", "getAssociatedObject"]
+- ["Ps7CVarArg", "my_didMoveToSuperview"]
+- ["Ps7CVarArg", "my_didMoveToSuperviewHandler"]
+- !private ["Ps7CVarArg", "setAssociatedObject"]
+- !private ["Ps7CVarArg", "superview"]
+- !private ["Ps7CVarArg", "swizzleOnce"]
+- !private ["Ps28CustomDebugStringConvertible", "UIView"]
+- !private ["Ps28CustomDebugStringConvertible", "didMoveToSuperview"]
+- !private ["Ps28CustomDebugStringConvertible", "didMoveToSuperviewHandlerKey"]
+- !private ["Ps28CustomDebugStringConvertible", "getAssociatedObject"]
+- ["Ps28CustomDebugStringConvertible", "my_didMoveToSuperview"]
+- ["Ps28CustomDebugStringConvertible", "my_didMoveToSuperviewHandler"]
+- !private ["Ps28CustomDebugStringConvertible", "setAssociatedObject"]
+- !private ["Ps28CustomDebugStringConvertible", "superview"]
+- !private ["Ps28CustomDebugStringConvertible", "swizzleOnce"]
+- !private ["Ps23CustomStringConvertible", "UIView"]
+- !private ["Ps23CustomStringConvertible", "didMoveToSuperview"]
+- !private ["Ps23CustomStringConvertible", "didMoveToSuperviewHandlerKey"]
+- !private ["Ps23CustomStringConvertible", "getAssociatedObject"]
+- ["Ps23CustomStringConvertible", "my_didMoveToSuperview"]
+- ["Ps23CustomStringConvertible", "my_didMoveToSuperviewHandler"]
+- !private ["Ps23CustomStringConvertible", "setAssociatedObject"]
+- !private ["Ps23CustomStringConvertible", "superview"]
+- !private ["Ps23CustomStringConvertible", "swizzleOnce"]
+- !private ["Ps9Equatable", "OBJC_ASSOCIATION_COPY"]
+- !private ["Ps9Equatable", "UIView"]
+- !private ["Ps9Equatable", "didMoveToSuperview"]
+- !private ["Ps9Equatable", "didMoveToSuperviewHandlerKey"]
+- !private ["Ps9Equatable", "getAssociatedObject"]
+- ["Ps9Equatable", "my_didMoveToSuperview"]
+- ["Ps9Equatable", "my_didMoveToSuperviewHandler"]
+- !private ["Ps9Equatable", "setAssociatedObject"]
+- !private ["Ps9Equatable", "superview"]
+- !private ["Ps9Equatable", "swizzleOnce"]
+- !private ["Ps8Hashable", "OBJC_ASSOCIATION_COPY"]
+- !private ["Ps8Hashable", "UIView"]
+- !private ["Ps8Hashable", "didMoveToSuperview"]
+- !private ["Ps8Hashable", "didMoveToSuperviewHandlerKey"]
+- !private ["Ps8Hashable", "getAssociatedObject"]
+- ["Ps8Hashable", "my_didMoveToSuperview"]
+- ["Ps8Hashable", "my_didMoveToSuperviewHandler"]
+- !private ["Ps8Hashable", "setAssociatedObject"]
+- !private ["Ps8Hashable", "superview"]
+- !private ["Ps8Hashable", "swizzleOnce"]
+- !private ["P16MYTableViewIndex9IndexItem", "UIView"]
+- !private ["P16MYTableViewIndex9IndexItem", "didMoveToSuperview"]
+- !private ["P16MYTableViewIndex9IndexItem", "didMoveToSuperviewHandlerKey"]
+- !private ["P16MYTableViewIndex9IndexItem", "getAssociatedObject"]
+- !private ["P16MYTableViewIndex9IndexItem", "my_didMoveToSuperview"]
+- !private ["P16MYTableViewIndex9IndexItem", "my_didMoveToSuperviewHandler"]
+- !private ["P16MYTableViewIndex9IndexItem", "setAssociatedObject"]
+- !private ["P16MYTableViewIndex9IndexItem", "superview"]
+- !private ["P16MYTableViewIndex9IndexItem", "swizzleOnce"]
+- ["Si", "deinit"]
+- !private ["PSo8NSCoding", "UIView"]
+- !private ["PSo8NSCoding", "didMoveToSuperview"]
+- !private ["PSo8NSCoding", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo8NSCoding", "getAssociatedObject"]
+- !private ["PSo8NSCoding", "my_didMoveToSuperview"]
+- !private ["PSo8NSCoding", "my_didMoveToSuperviewHandler"]
+- !private ["PSo8NSCoding", "setAssociatedObject"]
+- !private ["PSo8NSCoding", "superview"]
+- !private ["PSo8NSCoding", "swizzleOnce"]
+- ["CSo8NSObject", "UIView"]
+- ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "didMoveToSuperview"]
+- !private ["CSo8NSObject", "didMoveToSuperviewHandlerKey"]
+- !private ["CSo8NSObject", "getAssociatedObject"]
+- ["CSo8NSObject", "my_didMoveToSuperview"]
+- ["CSo8NSObject", "my_didMoveToSuperviewHandler"]
+- !private ["CSo8NSObject", "setAssociatedObject"]
+- !private ["CSo8NSObject", "superview"]
+- !private ["CSo8NSObject", "swizzleOnce"]
+- !private ["PSo16NSObjectProtocol", "UIView"]
+- !private ["PSo16NSObjectProtocol", "didMoveToSuperview"]
+- !private ["PSo16NSObjectProtocol", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo16NSObjectProtocol", "getAssociatedObject"]
+- ["PSo16NSObjectProtocol", "my_didMoveToSuperview"]
+- ["PSo16NSObjectProtocol", "my_didMoveToSuperviewHandler"]
+- !private ["PSo16NSObjectProtocol", "setAssociatedObject"]
+- !private ["PSo16NSObjectProtocol", "superview"]
+- !private ["PSo16NSObjectProtocol", "swizzleOnce"]
+- ["Sq", "deinit"]
+- !private ["Ps16RawRepresentable", "OBJC_ASSOCIATION_COPY"]
+- ["V10ObjectiveC8Selector", "deinit"]
+- !private ["PSo29UIAccessibilityIdentification", "UIView"]
+- !private ["PSo29UIAccessibilityIdentification", "didMoveToSuperview"]
+- !private ["PSo29UIAccessibilityIdentification", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo29UIAccessibilityIdentification", "getAssociatedObject"]
+- !private ["PSo29UIAccessibilityIdentification", "my_didMoveToSuperview"]
+- !private ["PSo29UIAccessibilityIdentification", "my_didMoveToSuperviewHandler"]
+- !private ["PSo29UIAccessibilityIdentification", "setAssociatedObject"]
+- !private ["PSo29UIAccessibilityIdentification", "superview"]
+- !private ["PSo29UIAccessibilityIdentification", "swizzleOnce"]
+- !private ["PSo12UIAppearance", "UIView"]
+- !private ["PSo12UIAppearance", "didMoveToSuperview"]
+- !private ["PSo12UIAppearance", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo12UIAppearance", "getAssociatedObject"]
+- !private ["PSo12UIAppearance", "my_didMoveToSuperview"]
+- !private ["PSo12UIAppearance", "my_didMoveToSuperviewHandler"]
+- !private ["PSo12UIAppearance", "setAssociatedObject"]
+- !private ["PSo12UIAppearance", "superview"]
+- !private ["PSo12UIAppearance", "swizzleOnce"]
+- !private ["PSo21UIAppearanceContainer", "UIView"]
+- !private ["PSo21UIAppearanceContainer", "didMoveToSuperview"]
+- !private ["PSo21UIAppearanceContainer", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo21UIAppearanceContainer", "getAssociatedObject"]
+- !private ["PSo21UIAppearanceContainer", "my_didMoveToSuperview"]
+- !private ["PSo21UIAppearanceContainer", "my_didMoveToSuperviewHandler"]
+- !private ["PSo21UIAppearanceContainer", "setAssociatedObject"]
+- !private ["PSo21UIAppearanceContainer", "superview"]
+- !private ["PSo21UIAppearanceContainer", "swizzleOnce"]
+- !private ["PSo17UICoordinateSpace", "UIView"]
+- !private ["PSo17UICoordinateSpace", "didMoveToSuperview"]
+- !private ["PSo17UICoordinateSpace", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo17UICoordinateSpace", "getAssociatedObject"]
+- !private ["PSo17UICoordinateSpace", "my_didMoveToSuperview"]
+- !private ["PSo17UICoordinateSpace", "my_didMoveToSuperviewHandler"]
+- !private ["PSo17UICoordinateSpace", "setAssociatedObject"]
+- !private ["PSo17UICoordinateSpace", "superview"]
+- !private ["PSo17UICoordinateSpace", "swizzleOnce"]
+- !private ["PSo13UIDynamicItem", "UIView"]
+- !private ["PSo13UIDynamicItem", "didMoveToSuperview"]
+- !private ["PSo13UIDynamicItem", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo13UIDynamicItem", "getAssociatedObject"]
+- !private ["PSo13UIDynamicItem", "my_didMoveToSuperview"]
+- !private ["PSo13UIDynamicItem", "my_didMoveToSuperviewHandler"]
+- !private ["PSo13UIDynamicItem", "setAssociatedObject"]
+- !private ["PSo13UIDynamicItem", "superview"]
+- !private ["PSo13UIDynamicItem", "swizzleOnce"]
+- !private ["PSo18UIFocusEnvironment", "UIView"]
+- !private ["PSo18UIFocusEnvironment", "didMoveToSuperview"]
+- !private ["PSo18UIFocusEnvironment", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo18UIFocusEnvironment", "getAssociatedObject"]
+- !private ["PSo18UIFocusEnvironment", "my_didMoveToSuperview"]
+- !private ["PSo18UIFocusEnvironment", "my_didMoveToSuperviewHandler"]
+- !private ["PSo18UIFocusEnvironment", "setAssociatedObject"]
+- !private ["PSo18UIFocusEnvironment", "superview"]
+- !private ["PSo18UIFocusEnvironment", "swizzleOnce"]
+- !private ["PSo11UIFocusItem", "UIView"]
+- !private ["PSo11UIFocusItem", "didMoveToSuperview"]
+- !private ["PSo11UIFocusItem", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo11UIFocusItem", "getAssociatedObject"]
+- !private ["PSo11UIFocusItem", "my_didMoveToSuperview"]
+- !private ["PSo11UIFocusItem", "my_didMoveToSuperviewHandler"]
+- !private ["PSo11UIFocusItem", "setAssociatedObject"]
+- !private ["PSo11UIFocusItem", "superview"]
+- !private ["PSo11UIFocusItem", "swizzleOnce"]
+- ["CSo11UIResponder", "UIView"]
+- ["CSo11UIResponder", "Void"]
+- !private ["CSo11UIResponder", "didMoveToSuperview"]
+- !private ["CSo11UIResponder", "didMoveToSuperviewHandlerKey"]
+- !private ["CSo11UIResponder", "getAssociatedObject"]
+- ["CSo11UIResponder", "my_didMoveToSuperview"]
+- ["CSo11UIResponder", "my_didMoveToSuperviewHandler"]
+- !private ["CSo11UIResponder", "setAssociatedObject"]
+- !private ["CSo11UIResponder", "superview"]
+- !private ["CSo11UIResponder", "swizzleOnce"]
+- !private ["PSo30UIResponderStandardEditActions", "UIView"]
+- !private ["PSo30UIResponderStandardEditActions", "didMoveToSuperview"]
+- !private ["PSo30UIResponderStandardEditActions", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo30UIResponderStandardEditActions", "getAssociatedObject"]
+- ["PSo30UIResponderStandardEditActions", "my_didMoveToSuperview"]
+- ["PSo30UIResponderStandardEditActions", "my_didMoveToSuperviewHandler"]
+- !private ["PSo30UIResponderStandardEditActions", "setAssociatedObject"]
+- !private ["PSo30UIResponderStandardEditActions", "superview"]
+- !private ["PSo30UIResponderStandardEditActions", "swizzleOnce"]
+- !private ["PSo18UITraitEnvironment", "UIView"]
+- !private ["PSo18UITraitEnvironment", "didMoveToSuperview"]
+- !private ["PSo18UITraitEnvironment", "didMoveToSuperviewHandlerKey"]
+- !private ["PSo18UITraitEnvironment", "getAssociatedObject"]
+- !private ["PSo18UITraitEnvironment", "my_didMoveToSuperview"]
+- !private ["PSo18UITraitEnvironment", "my_didMoveToSuperviewHandler"]
+- !private ["PSo18UITraitEnvironment", "setAssociatedObject"]
+- !private ["PSo18UITraitEnvironment", "superview"]
+- !private ["PSo18UITraitEnvironment", "swizzleOnce"]
+- ["CSo6UIView", "UIView"]
+- ["CSo6UIView", "Void"]
+- ["CSo6UIView", "deinit"]
+- !private ["CSo6UIView", "didMoveToSuperview"]
+- !private ["CSo6UIView", "didMoveToSuperviewHandlerKey"]
+- !private ["CSo6UIView", "getAssociatedObject"]
+- ["CSo6UIView", "my_didMoveToSuperview"]
+- ["CSo6UIView", "my_didMoveToSuperviewHandler"]
+- !private ["CSo6UIView", "setAssociatedObject"]
+- !private ["CSo6UIView", "superview"]
+- !private ["CSo6UIView", "swizzleOnce"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "UIView"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "didMoveToSuperview"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "didMoveToSuperviewHandlerKey"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "getAssociatedObject"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "my_didMoveToSuperview"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "my_didMoveToSuperviewHandler"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "setAssociatedObject"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "superview"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "swizzleOnce"]
+- !private ["Ps9_Hashable", "OBJC_ASSOCIATION_COPY"]
+- !private ["Ps9_Hashable", "UIView"]
+- !private ["Ps9_Hashable", "didMoveToSuperview"]
+- !private ["Ps9_Hashable", "didMoveToSuperviewHandlerKey"]
+- !private ["Ps9_Hashable", "getAssociatedObject"]
+- ["Ps9_Hashable", "my_didMoveToSuperview"]
+- ["Ps9_Hashable", "my_didMoveToSuperviewHandler"]
+- !private ["Ps9_Hashable", "setAssociatedObject"]
+- !private ["Ps9_Hashable", "superview"]
+- !private ["Ps9_Hashable", "swizzleOnce"]
+- !private ["OSC22objc_AssociationPolicy", "OBJC_ASSOCIATION_COPY"]
+- ["OSC22objc_AssociationPolicy", "deinit"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- !private "P16MYTableViewIndex9IndexItem"
+- "Si"
+- !private "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- !private "Ps16RawRepresentable"
+- "V10ObjectiveC8Selector"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- !private "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+- "OSC22objc_AssociationPolicy"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/x/forks/MYTableViewIndex/Example/Pods/Target Support Files/MYTableViewIndex/MYTableViewIndex-umbrella.h"
+- "/Users/x/forks/MYTableViewIndex/Example/build/Pods.build/Debug-iphonesimulator/MYTableViewIndex.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "b5559e185e0d4086734bb29f4004efc1"

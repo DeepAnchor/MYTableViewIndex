@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/x/forks/MYTableViewIndex/Example/build/Debug-iphonesimulator/MYTableViewIndex/MYTableViewIndex.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/x/forks/MYTableViewIndex/Example/build/Pods.build/Debug-iphonesimulator/MYTableViewIndex.build/unextended-module.modulemap',
+    }]
+  }]
+}

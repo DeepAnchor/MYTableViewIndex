@@ -1,0 +1,148 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "IndexItem"
+provides-nominal:
+- "P16MYTableViewIndex9IndexItem"
+- "CSo6UIView"
+provides-member:
+- ["P16MYTableViewIndex9IndexItem", ""]
+- ["CSo6UIView", ""]
+provides-dynamic-lookup:
+- "blocksEdgeTruncation"
+- "blocksEdgeTruncation"
+- "sizeThatFits"
+- "applyStyle"
+- "applyStyle"
+depends-top-level:
+- "CGSize"
+- "Bool"
+- "Style"
+- "UIView"
+- !private "BooleanLiteralType"
+- "IndexItem"
+depends-member:
+- ["Ps9AnyObject", "applyStyle"]
+- ["Ps9AnyObject", "blocksEdgeTruncation"]
+- ["Ps9AnyObject", "sizeThatFits"]
+- ["Sb", "deinit"]
+- ["PSo15CALayerDelegate", "applyStyle"]
+- ["PSo15CALayerDelegate", "blocksEdgeTruncation"]
+- ["PSo15CALayerDelegate", "sizeThatFits"]
+- ["Ps7CVarArg", "applyStyle"]
+- ["Ps7CVarArg", "blocksEdgeTruncation"]
+- ["Ps7CVarArg", "sizeThatFits"]
+- ["Ps28CustomDebugStringConvertible", "applyStyle"]
+- ["Ps28CustomDebugStringConvertible", "blocksEdgeTruncation"]
+- ["Ps28CustomDebugStringConvertible", "sizeThatFits"]
+- ["Ps23CustomStringConvertible", "applyStyle"]
+- ["Ps23CustomStringConvertible", "blocksEdgeTruncation"]
+- ["Ps23CustomStringConvertible", "sizeThatFits"]
+- ["Ps9Equatable", "applyStyle"]
+- ["Ps9Equatable", "blocksEdgeTruncation"]
+- ["Ps9Equatable", "sizeThatFits"]
+- ["Ps8Hashable", "applyStyle"]
+- ["Ps8Hashable", "blocksEdgeTruncation"]
+- ["Ps8Hashable", "sizeThatFits"]
+- ["P16MYTableViewIndex9IndexItem", "Bool"]
+- ["P16MYTableViewIndex9IndexItem", "CGSize"]
+- ["P16MYTableViewIndex9IndexItem", "Style"]
+- ["P16MYTableViewIndex9IndexItem", "applyStyle"]
+- ["P16MYTableViewIndex9IndexItem", "blocksEdgeTruncation"]
+- ["P16MYTableViewIndex9IndexItem", "sizeThatFits"]
+- ["P16MYTableViewIndex9IndexItem", ""]
+- ["PSo8NSCoding", "applyStyle"]
+- ["PSo8NSCoding", "blocksEdgeTruncation"]
+- ["PSo8NSCoding", "sizeThatFits"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "Style"]
+- ["CSo8NSObject", "applyStyle"]
+- ["CSo8NSObject", "blocksEdgeTruncation"]
+- ["CSo8NSObject", "sizeThatFits"]
+- ["PSo16NSObjectProtocol", "applyStyle"]
+- ["PSo16NSObjectProtocol", "blocksEdgeTruncation"]
+- ["PSo16NSObjectProtocol", "sizeThatFits"]
+- ["PSo29UIAccessibilityIdentification", "applyStyle"]
+- ["PSo29UIAccessibilityIdentification", "blocksEdgeTruncation"]
+- ["PSo29UIAccessibilityIdentification", "sizeThatFits"]
+- ["PSo12UIAppearance", "applyStyle"]
+- ["PSo12UIAppearance", "blocksEdgeTruncation"]
+- ["PSo12UIAppearance", "sizeThatFits"]
+- ["PSo21UIAppearanceContainer", "applyStyle"]
+- ["PSo21UIAppearanceContainer", "blocksEdgeTruncation"]
+- ["PSo21UIAppearanceContainer", "sizeThatFits"]
+- ["PSo17UICoordinateSpace", "applyStyle"]
+- ["PSo17UICoordinateSpace", "blocksEdgeTruncation"]
+- ["PSo17UICoordinateSpace", "sizeThatFits"]
+- ["PSo13UIDynamicItem", "applyStyle"]
+- ["PSo13UIDynamicItem", "blocksEdgeTruncation"]
+- ["PSo13UIDynamicItem", "sizeThatFits"]
+- ["PSo18UIFocusEnvironment", "applyStyle"]
+- ["PSo18UIFocusEnvironment", "blocksEdgeTruncation"]
+- ["PSo18UIFocusEnvironment", "sizeThatFits"]
+- ["PSo11UIFocusItem", "applyStyle"]
+- ["PSo11UIFocusItem", "blocksEdgeTruncation"]
+- ["PSo11UIFocusItem", "sizeThatFits"]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "Style"]
+- ["CSo11UIResponder", "applyStyle"]
+- ["CSo11UIResponder", "blocksEdgeTruncation"]
+- ["CSo11UIResponder", "sizeThatFits"]
+- ["PSo30UIResponderStandardEditActions", "applyStyle"]
+- ["PSo30UIResponderStandardEditActions", "blocksEdgeTruncation"]
+- ["PSo30UIResponderStandardEditActions", "sizeThatFits"]
+- ["PSo18UITraitEnvironment", "applyStyle"]
+- ["PSo18UITraitEnvironment", "blocksEdgeTruncation"]
+- ["PSo18UITraitEnvironment", "sizeThatFits"]
+- ["CSo6UIView", "Bool"]
+- ["CSo6UIView", "Style"]
+- ["CSo6UIView", "applyStyle"]
+- ["CSo6UIView", "blocksEdgeTruncation"]
+- ["CSo6UIView", "deinit"]
+- ["CSo6UIView", "sizeThatFits"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "applyStyle"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "blocksEdgeTruncation"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "sizeThatFits"]
+- ["Ps9_Hashable", "applyStyle"]
+- ["Ps9_Hashable", "blocksEdgeTruncation"]
+- ["Ps9_Hashable", "sizeThatFits"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "P16MYTableViewIndex9IndexItem"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/x/forks/MYTableViewIndex/Example/Pods/Target Support Files/MYTableViewIndex/MYTableViewIndex-umbrella.h"
+- "/Users/x/forks/MYTableViewIndex/Example/build/Pods.build/Debug-iphonesimulator/MYTableViewIndex.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "d5d9b0271aad89af6819c4d6b6577539"

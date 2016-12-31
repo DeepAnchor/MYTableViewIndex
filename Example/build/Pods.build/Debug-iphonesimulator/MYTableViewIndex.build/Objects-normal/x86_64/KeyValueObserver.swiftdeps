@@ -1,0 +1,321 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "KeyValueObserver"
+provides-nominal:
+- "C16MYTableViewIndex16KeyValueObserver"
+provides-member:
+- ["C16MYTableViewIndex16KeyValueObserver", ""]
+provides-dynamic-lookup:
+- "observeValue"
+depends-top-level:
+- !private "=="
+- "String"
+- "KeyValueObserver"
+- !private "StringLiteralType"
+- "BooleanLiteralType"
+- "NSObject"
+- !private "KVOContext"
+- "NSKeyValueChangeKey"
+- "UnsafeMutableRawPointer"
+- !private "Array"
+- !private "!"
+- "CastingPrecedence"
+- "Bool"
+- "AssignmentPrecedence"
+depends-member:
+- !private ["Ps9AnyObject", "KVOContext"]
+- !private ["Ps9AnyObject", "addObserver"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "my_deinitHandler"]
+- ["Ps9AnyObject", "observe"]
+- ["Ps9AnyObject", "observeHandler"]
+- ["Ps9AnyObject", "observeValue"]
+- ["Ps9AnyObject", "observedKeyPaths"]
+- ["Ps9AnyObject", "observedObject"]
+- ["Ps9AnyObject", "observing"]
+- !private ["Ps9AnyObject", "removeObserver"]
+- ["Ps9AnyObject", "unobserve"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "Iterator"]
+- !private ["Sa", "_Element"]
+- ["Sa", "deinit"]
+- !private ["Ps23BidirectionalCollection", "Iterator"]
+- !private ["Ps23BidirectionalCollection", "_Element"]
+- !private ["Ps22BidirectionalIndexable", "Iterator"]
+- !private ["Ps22BidirectionalIndexable", "_Element"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "Iterator"]
+- !private ["Ps7CVarArg", "KVOContext"]
+- !private ["Ps7CVarArg", "_Element"]
+- !private ["Ps7CVarArg", "addObserver"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "my_deinitHandler"]
+- ["Ps7CVarArg", "observe"]
+- ["Ps7CVarArg", "observeHandler"]
+- ["Ps7CVarArg", "observeValue"]
+- ["Ps7CVarArg", "observedKeyPaths"]
+- ["Ps7CVarArg", "observedObject"]
+- ["Ps7CVarArg", "observing"]
+- !private ["Ps7CVarArg", "removeObserver"]
+- ["Ps7CVarArg", "unobserve"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "Iterator"]
+- !private ["Ps10Collection", "_Element"]
+- !private ["Ps28CustomDebugStringConvertible", "Iterator"]
+- !private ["Ps28CustomDebugStringConvertible", "KVOContext"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- !private ["Ps28CustomDebugStringConvertible", "addObserver"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "my_deinitHandler"]
+- ["Ps28CustomDebugStringConvertible", "observe"]
+- ["Ps28CustomDebugStringConvertible", "observeHandler"]
+- ["Ps28CustomDebugStringConvertible", "observeValue"]
+- ["Ps28CustomDebugStringConvertible", "observedKeyPaths"]
+- ["Ps28CustomDebugStringConvertible", "observedObject"]
+- ["Ps28CustomDebugStringConvertible", "observing"]
+- !private ["Ps28CustomDebugStringConvertible", "removeObserver"]
+- ["Ps28CustomDebugStringConvertible", "unobserve"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "Iterator"]
+- !private ["Ps17CustomReflectable", "_Element"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Iterator"]
+- !private ["Ps23CustomStringConvertible", "KVOContext"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "addObserver"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "my_deinitHandler"]
+- ["Ps23CustomStringConvertible", "observe"]
+- ["Ps23CustomStringConvertible", "observeHandler"]
+- ["Ps23CustomStringConvertible", "observeValue"]
+- ["Ps23CustomStringConvertible", "observedKeyPaths"]
+- ["Ps23CustomStringConvertible", "observedObject"]
+- ["Ps23CustomStringConvertible", "observing"]
+- !private ["Ps23CustomStringConvertible", "removeObserver"]
+- ["Ps23CustomStringConvertible", "unobserve"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "Element"]
+- !private ["Ps9Equatable", "KVOContext"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "addObserver"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "initial"]
+- !private ["Ps9Equatable", "my_deinitHandler"]
+- !private ["Ps9Equatable", "new"]
+- ["Ps9Equatable", "observe"]
+- ["Ps9Equatable", "observeHandler"]
+- ["Ps9Equatable", "observeValue"]
+- ["Ps9Equatable", "observedKeyPaths"]
+- ["Ps9Equatable", "observedObject"]
+- ["Ps9Equatable", "observing"]
+- !private ["Ps9Equatable", "removeObserver"]
+- ["Ps9Equatable", "unobserve"]
+- ["Ps9Equatable", ""]
+- !private ["Ps25ExpressibleByArrayLiteral", "Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Iterator"]
+- !private ["Ps25ExpressibleByArrayLiteral", "_Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "initial"]
+- !private ["Ps25ExpressibleByArrayLiteral", "new"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "KVOContext"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "addObserver"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "my_deinitHandler"]
+- ["Ps8Hashable", "observe"]
+- ["Ps8Hashable", "observeHandler"]
+- ["Ps8Hashable", "observeValue"]
+- ["Ps8Hashable", "observedKeyPaths"]
+- ["Ps8Hashable", "observedObject"]
+- ["Ps8Hashable", "observing"]
+- !private ["Ps8Hashable", "removeObserver"]
+- ["Ps8Hashable", "unobserve"]
+- ["Ps8Hashable", ""]
+- !private ["Ps9Indexable", "Iterator"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps13IndexableBase", "Iterator"]
+- !private ["Ps13IndexableBase", "_Element"]
+- !private ["Vs16IndexingIterator", "Element"]
+- ["Si", "deinit"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- ["C16MYTableViewIndex16KeyValueObserver", "Bool"]
+- !private ["C16MYTableViewIndex16KeyValueObserver", "KVOContext"]
+- ["C16MYTableViewIndex16KeyValueObserver", "NSKeyValueChangeKey"]
+- ["C16MYTableViewIndex16KeyValueObserver", "NSObject"]
+- ["C16MYTableViewIndex16KeyValueObserver", "String"]
+- ["C16MYTableViewIndex16KeyValueObserver", "UnsafeMutableRawPointer"]
+- ["C16MYTableViewIndex16KeyValueObserver", "deinit"]
+- ["C16MYTableViewIndex16KeyValueObserver", "init"]
+- !private ["C16MYTableViewIndex16KeyValueObserver", "observe"]
+- !private ["C16MYTableViewIndex16KeyValueObserver", "observeHandler"]
+- ["C16MYTableViewIndex16KeyValueObserver", "observeValue"]
+- !private ["C16MYTableViewIndex16KeyValueObserver", "observedKeyPaths"]
+- !private ["C16MYTableViewIndex16KeyValueObserver", "observedObject"]
+- !private ["C16MYTableViewIndex16KeyValueObserver", "observing"]
+- !private ["C16MYTableViewIndex16KeyValueObserver", "unobserve"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps17MutableCollection", "Iterator"]
+- !private ["Ps17MutableCollection", "_Element"]
+- !private ["Ps16MutableIndexable", "Iterator"]
+- !private ["Ps16MutableIndexable", "_Element"]
+- !private ["VSC26NSKeyValueObservingOptions", "Element"]
+- !private ["VSC26NSKeyValueObservingOptions", "deinit"]
+- !private ["VSC26NSKeyValueObservingOptions", "initial"]
+- !private ["VSC26NSKeyValueObservingOptions", "new"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "KVOContext"]
+- ["CSo8NSObject", "NSKeyValueChangeKey"]
+- ["CSo8NSObject", "NSObject"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UnsafeMutableRawPointer"]
+- !private ["CSo8NSObject", "addObserver"]
+- ["CSo8NSObject", "deinit"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "my_deinitHandler"]
+- ["CSo8NSObject", "observe"]
+- ["CSo8NSObject", "observeHandler"]
+- ["CSo8NSObject", "observeValue"]
+- ["CSo8NSObject", "observedKeyPaths"]
+- ["CSo8NSObject", "observedObject"]
+- ["CSo8NSObject", "observing"]
+- !private ["CSo8NSObject", "removeObserver"]
+- ["CSo8NSObject", "unobserve"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "KVOContext"]
+- !private ["PSo16NSObjectProtocol", "addObserver"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "my_deinitHandler"]
+- ["PSo16NSObjectProtocol", "observe"]
+- ["PSo16NSObjectProtocol", "observeHandler"]
+- ["PSo16NSObjectProtocol", "observeValue"]
+- ["PSo16NSObjectProtocol", "observedKeyPaths"]
+- ["PSo16NSObjectProtocol", "observedObject"]
+- ["PSo16NSObjectProtocol", "observing"]
+- !private ["PSo16NSObjectProtocol", "removeObserver"]
+- ["PSo16NSObjectProtocol", "unobserve"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Os5Never", "deinit"]
+- !private ["Ps9OptionSet", "Element"]
+- !private ["Ps9OptionSet", "initial"]
+- !private ["Ps9OptionSet", "new"]
+- ["Sq", "deinit"]
+- !private ["Ps22RandomAccessCollection", "Iterator"]
+- !private ["Ps22RandomAccessCollection", "_Element"]
+- !private ["Ps21RandomAccessIndexable", "Iterator"]
+- !private ["Ps21RandomAccessIndexable", "_Element"]
+- !private ["Ps26RangeReplaceableCollection", "Iterator"]
+- !private ["Ps26RangeReplaceableCollection", "_Element"]
+- !private ["Ps25RangeReplaceableIndexable", "Iterator"]
+- !private ["Ps25RangeReplaceableIndexable", "_Element"]
+- !private ["Ps16RawRepresentable", "Element"]
+- !private ["Ps16RawRepresentable", "initial"]
+- !private ["Ps16RawRepresentable", "new"]
+- !private ["Ps8Sequence", "Element"]
+- !private ["Ps8Sequence", "Iterator"]
+- !private ["Ps8Sequence", "_Element"]
+- !private ["Ps10SetAlgebra", "Element"]
+- !private ["Ps10SetAlgebra", "initial"]
+- !private ["Ps10SetAlgebra", "new"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- ["SS", "deinit"]
+- ["Su", "deinit"]
+- !private ["Ps14_ArrayProtocol", "Iterator"]
+- !private ["Ps14_ArrayProtocol", "_Element"]
+- !private ["Ps24_DestructorSafeContainer", "Iterator"]
+- !private ["Ps24_DestructorSafeContainer", "_Element"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps9_Hashable", "KVOContext"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "addObserver"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "my_deinitHandler"]
+- ["Ps9_Hashable", "observe"]
+- ["Ps9_Hashable", "observeHandler"]
+- ["Ps9_Hashable", "observeValue"]
+- ["Ps9_Hashable", "observedKeyPaths"]
+- ["Ps9_Hashable", "observedObject"]
+- ["Ps9_Hashable", "observing"]
+- !private ["Ps9_Hashable", "removeObserver"]
+- ["Ps9_Hashable", "unobserve"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "Iterator"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- "Sb"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Vs16IndexingIterator"
+- "Si"
+- !private "Ps16IteratorProtocol"
+- "C16MYTableViewIndex16KeyValueObserver"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps17MutableCollection"
+- !private "Ps16MutableIndexable"
+- !private "VSC26NSKeyValueObservingOptions"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Os5Never"
+- !private "Ps9OptionSet"
+- "Sq"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps25RangeReplaceableIndexable"
+- !private "Ps16RawRepresentable"
+- !private "Ps8Sequence"
+- !private "Ps10SetAlgebra"
+- "Vs12StaticString"
+- "SS"
+- "Su"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/x/forks/MYTableViewIndex/Example/Pods/Target Support Files/MYTableViewIndex/MYTableViewIndex-umbrella.h"
+- "/Users/x/forks/MYTableViewIndex/Example/build/Pods.build/Debug-iphonesimulator/MYTableViewIndex.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "b03ef244a56995b3679c5e7f2e4abd12"

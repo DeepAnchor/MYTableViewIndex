@@ -1,0 +1,22 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "c5432e99a992c3f8e9f85d4831e66527"
+build_time: [536457648, 956941000]
+inputs:
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Private/ConcreteStyle.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Private/Utils/GeometryHelpers.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Public/Items/ImageItem.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Public/Items/IndexItem.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Private/IndexView.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Private/Utils/KeyValueObserver.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Private/Layout.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Private/Metrics.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Private/Utils/ObjCHelpers.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Public/Items/SearchItem.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Public/Items/StringItem.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Public/Style.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Public/TableViewIndex.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Public/TableViewIndexController.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Private/Truncation.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Public/Items/TruncationItem.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Private/Utils/UIFont+Helpers.swift": [536457579, 0]
+  "/Users/x/forks/MYTableViewIndex/MYTableViewIndex/Private/Utils/UIView+SuperviewHandler.swift": [536457579, 0]
